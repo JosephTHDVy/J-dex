@@ -22,4 +22,4 @@ OBS 2: O site foi testado em monitores de 1440x990px, porem visa ter responsivid
 
 Projeto realizado pelo aluno José Guilherme com a supervisão do professor Willian Schon Lopes.
 
-<a href="home.html">
+<a href="home.html">clique aqui para ser redirecionado a pagina inicial.</a>
