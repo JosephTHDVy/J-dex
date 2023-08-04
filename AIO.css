@@ -1,0 +1,239 @@
+body {
+
+    background-color: rgb(62, 23, 95);
+}
+
+
+
+@media (max-width: 480px) { 
+
+    #menuDropdown {
+      background-color: aliceblue;
+      border-color: aliceblue;
+  }
+  
+  .Painel {
+      padding-top: 20px;
+      padding-left: 200PX;
+      background-color: rgb(33, 33, 41);
+      background-attachment: fixed;
+  }
+  
+  .carousel {
+    background-color: rgb(33, 33, 41);
+      position: relative;
+      width: 455px;
+      overflow: hidden;
+    }
+    
+    .carousel-inner {
+      display: flex;
+      transition: transform 0.3s ease-in-out;
+    }
+    
+    .carousel-item {
+      
+      flex: 0 0 100%;
+    }
+    
+    .carousel-item img {
+      padding-left: 350px;
+      width: 200px;
+      height: auto;
+    }
+    
+    .carousel-control {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 2rem;
+      text-decoration: none;
+      color: #ffffff;
+      z-index: 1;
+    }
+    
+    .carousel-control.prev {
+      left: 10px;
+    }
+    
+    .carousel-control.next {
+      right: 10px;
+    }  
+    
+  }
+
+  @media (max-width: 720px) {
+
+    #menuDropdown {
+
+      background-color: aliceblue;
+      border-color: aliceblue;
+  }
+  
+  .Painel {
+      padding-top: 20px;
+      padding-left: 200PX;
+      background-color: rgb(33, 33, 41);
+      background-attachment: fixed;
+  }
+  
+  .carousel {
+    background-color: rgb(33, 33, 41);
+      position: relative;
+      width: 683px;
+      overflow: hidden;
+    }
+    
+    .carousel-inner {
+      display: flex;
+      transition: transform 0.3s ease-in-out;
+    }
+    
+    .carousel-item {
+      
+      flex: 0 0 100%;
+    }
+    
+    .carousel-item img {
+      padding-left: 350px;
+      width: 350px;
+      height: auto;
+    }
+    
+    .carousel-control {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 2rem;
+      text-decoration: none;
+      color: #ffffff;
+      z-index: 1;
+    }
+    
+    .carousel-control.prev {
+      left: 10px;
+    }
+    
+    .carousel-control.next {
+      right: 10px;
+    }  
+
+  }
+
+  @media (max-width: 1024px) {
+
+    #menuDropdown {
+      background-color: aliceblue;
+      border-color: aliceblue;
+  }
+  
+  .Painel {
+      padding-top: 20px;
+      padding-left: 200PX;
+      background-color: rgb(33, 33, 41);
+      background-attachment: fixed;
+  }
+  
+  .carousel {
+    background-color: rgb(33, 33, 41);
+      position: relative;
+      width: 972px;
+      overflow: hidden;
+    }
+    
+    .carousel-inner {
+      display: flex;
+      transition: transform 0.3s ease-in-out;
+    }
+    
+    .carousel-item {
+      
+      flex: 0 0 100%;
+    }
+    
+    .carousel-item img {
+      padding-left: 350px;
+      width: 498px;
+      height: auto;
+    }
+    
+    .carousel-control {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 2rem;
+      text-decoration: none;
+      color: #ffffff;
+      z-index: 1;
+    }
+    
+    .carousel-control.prev {
+      left: 10px;
+    }
+    
+    .carousel-control.next {
+      right: 10px;
+    }  
+
+  }
+
+/*Resolução recomendada*/
+@media (max-width: 1440px) {
+
+  
+  #menuDropdown {
+    background-color: aliceblue;
+    border-color: aliceblue;
+}
+
+.Painel {
+    padding-top: 20px;
+    padding-left: 200PX;
+    background-color: rgb(33, 33, 41);
+    background-attachment: fixed;
+}
+
+.carousel {
+  background-color: rgb(33, 33, 41);
+    position: relative;
+    width: 1410px;
+    overflow: hidden;
+  }
+  
+  .carousel-inner {
+    display: flex;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .carousel-item {
+    
+    flex: 0 0 100%;
+  }
+  
+  .carousel-item img {
+    padding-left: 350px;
+    width: 700px;
+    height: auto;
+  }
+  
+  .carousel-control {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 2rem;
+    text-decoration: none;
+    color: #ffffff;
+    z-index: 1;
+  }
+  
+  .carousel-control.prev {
+    left: 10px;
+  }
+  
+  .carousel-control.next {
+    right: 10px;
+  }  
+  
+
+}
+/*Resolução recomendada*/

@@ -1,0 +1,22 @@
+body{
+  background-color: rgb(49, 43, 43);
+}
+
+#target {
+  font-size: 24px;
+  text-align: center;
+  padding-top: 200px;
+  color: aliceblue;
+}
+
+button {
+  background-color: rgb(255, 94, 0);
+  margin: 0;
+  border-radius: 45px;
+  border-color: rgb(255, 94, 0);
+}
+
+.btn {
+  padding-left: 690px;
+  padding-bottom: 60px;
+}

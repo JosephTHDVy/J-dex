@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<header>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF8">
+    <title>Hall</title>
+  <link rel="stylesheet" href="AIO.css">
+  <script src="Hall.js"></script>
+</header>
+
+<head>  
+  <! carousel>
+    <div>
+      
+        <div class="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item">
+                <img src="img/einstein (FS).jpg" alt="Imagem 1">
+              </div>
+              <div class="carousel-item">
+                <img src="img/nelson mandela (FS).jpg" alt="Imagem 2">
+              </div>
+              <div class="carousel-item">
+                <img src="img/nikola tesla (FS).jpg" alt="Imagem 3">
+              </div>
+            </div>
+            <a class="carousel-control prev" href="#">&lsaquo;</a>
+            <a class="carousel-control next" href="#">&rsaquo;</a>
+          </div>
+
+    </div>
+  <! carousel>
+
+<! menu Dropdown>
+    <script>
+        function changePage() {
+            var dropdown = document.getElementById("menuDropdown");
+            var selectedOption = dropdown.options[dropdown.selectedIndex].value;
+            if (selectedOption !== "") {
+                window.location.href = selectedOption;
+            }
+        }
+
+    </script>
+        <select id="menuDropdown" onchange="changePage()">
+        <option value="cie.html">Cientistas</option> 
+        <option value="Hall.html">Todos</option> 
+        <option value="pesns.html">Pensadores</option>  
+        <option value="ddc.html">Defensores de causas</option> 
+        </select>
+<! menu Dropdown>    
+
+</head>
+
+<body>
+
+   <! banco de imagems>
+    <div class="Painel">
+      <a href="html/einstein.html"><img id="imgs" src="img/Albert Einstein.png" width="200px" height="200px" ></a>
+      <a href="html/Gates.html"><img id="imgs" src="img/Bill Gates.png" width="200px" height="200px" ></a>
+      <a href="html/Darwin.html"><img id="imgs" src="img/Charles Darwin.png" width="200px" height="200px" ></a>
+      <a href="html/Hodgking.html"><img id="imgs" src="img/Dorothy Hodgkin.png" width="200px" height="200px" ></a>
+      <a href="html/Galilei.html"><img id="imgs" src="img/Galileu Galilei.png" width="200px" height="200px" ></a>
+      <a href="html/Keller.html"><img id="imgs" src="img/Hellen Keller.png" width="200px" height="200px" ></a>
+      <a href="html/Newton.html"><img id="imgs" src="img/Isaac Newton.png" width="200px" height="200px" ></a>
+      <a href="html/Locke.html"><img id="imgs" src="img/John Locke.png" width="200px" height="200px" ></a>
+      <a href="html/DaVinci.html"><img id="imgs"src="img/Leonardo Da Vinci.png" width="200px" height="200px" ></a>
+      <a href="html/Curie.html"><img id="imgs" src="img/Marie Curie.png" width="200px" height="200px" ></a>
+      <a href="html/Phytagoras.html"><img id="imgs" src="img/Phytagoras.png" width="200px" height="200px" ></a>
+      <a href="html/Freud.html"><img id="imgs" src="img/Sigmund Freud.png" width="200px" height="200px" ></a>
+      <a href="html/Tesla.html"><img id="imgs" src="img/Nikola Tesla.png" width="200px" height="200px" ></a>
+      <a href="html/Tereshkova.html"><img id="imgs" src="img/Valentina Tereshkova.png" width="200px" height="200px" ></a>
+      <a href="html/Gagarin.html"><img id="imgs" src="img/Yuri Gagarin.png" width="200px" height="200px" ></a>
+    </div>
+    <! banco de imagems>
+
+</body>
+
+
+</html>

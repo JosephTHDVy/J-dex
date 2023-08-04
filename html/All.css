@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(17, 15, 15);
+}
+
+.text {
+    color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#titulo {
+    text-align: center;
+
+}
+
+#sub {
+    text-align: center;
+    font-size: 15px;
+}
+
+#cont {
+    text-align: justify;
+    font-size: 18px;}
