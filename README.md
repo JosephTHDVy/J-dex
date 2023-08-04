@@ -2,7 +2,9 @@
 <style>
  .body{
    background-color:black;
-   
+ }
+ .text {
+  color:white;
  }
 </style>
 
