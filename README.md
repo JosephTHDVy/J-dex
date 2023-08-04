@@ -21,3 +21,5 @@ ao chegar na pagina "hall.html" percebera que não ha nomes abaixo das imagems i
 OBS 2: O site foi testado em monitores de 1440x990px, porem visa ter responsividade, e ser compativel com dispositivos com diversas resoluções.
 
 Projeto realizado pelo aluno José Guilherme com a supervisão do professor Willian Schon Lopes.
+
+<a href="home.html">
