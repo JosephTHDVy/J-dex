@@ -1,18 +1,12 @@
 # J-dex
-<style>
- .body{
-   background-color:black;
- }
- .text {
-  color:white;
- }
+
 </style>
 
 <body>
-<h1 class="text">Resumo do projeto:</h1>
-<h2 class="text">A J-dex visa criar uma homenagem ao mesmo tempo que recorda feitos e ações humanas que mudaram o mundo, dentro dela podemos destacar algumas personalidades que recomendo que de uma olhada, sendo eles:
+<h1 >Resumo do projeto:</h1>
+<h2>A J-dex visa criar uma homenagem ao mesmo tempo que recorda feitos e ações humanas que mudaram o mundo, dentro dela podemos destacar algumas personalidades que recomendo que de uma olhada, sendo eles:
 </h2>
-<h3 class="text">Isaac Newton;
+<h3>Isaac Newton;
 Sigmund freud;
 Albert Einstein;
 Charles Darwin;
