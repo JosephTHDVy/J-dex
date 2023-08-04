@@ -1,5 +1,7 @@
 # J-dex
-
+<style>
+  background-color:black;
+</style>
 Resumo do projeto:
 
 A J-dex visa criar uma homenagem ao mesmo tempo que recorda feitos e ações humanas que mudaram o mundo, dentro dela podemos destacar algumas personalidades que recomendo que de uma olhada, sendo eles:
